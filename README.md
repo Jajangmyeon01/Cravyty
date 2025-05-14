@@ -46,6 +46,24 @@ Developed as a final exam project for **BSIT 4B** at **East System Colleges of R
 
 ## 🚀 Getting Started
 
+### 📲 Requirements
+
+> To test the app, please use **Expo Go version 52**. You can download it below:
+
+#### 📱 For Real Devices
+
+- **Android:** [Expo Go v52 (Android)](https://expo.dev/go?sdkVersion=52&platform=android&device=true)
+- **iOS:** [Expo Go v52 (iOS)](https://expo.dev/go?sdkVersion=52&platform=ios&device=true)
+
+#### 🧪 For Emulators/Simulators
+
+- **Android Emulator:** [Expo Go v52 (Android Emulator)](https://expo.dev/go?sdkVersion=52&platform=android&device=false)
+- **iOS Simulator:** [Expo Go v52 (iOS Simulator)](https://expo.dev/go?sdkVersion=52&platform=ios&device=false)
+
+Make sure your device/emulator is on the **same Wi-Fi network** as your development machine.
+
+---
+
 ### Install dependencies
 
 ```bash
