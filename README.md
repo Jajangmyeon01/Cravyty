@@ -1,25 +1,26 @@
-# Cravvty 🍔🥤
+# 🍔 Cravvty
+
+[![React Native](https://img.shields.io/badge/React%20Native-2023-blue.svg?logo=react)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo%20Go-v52-black.svg?logo=expo)](https://expo.dev/)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen)](#)
+[![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey)](#)
 
 **Cravvty** is a React Native Expo mobile app that suggests food options based on user-selected categories and budget range.  
 Developed as a final exam project for **BSIT 4B** at **East System Colleges of Rizal**.
 
+---
+
+## 📸 App Preview
+
 <div align="center">
-   <p>## 📸 App Preview</b>
-  <img src="Cravyty-Preview/WelcomeScreen.png" alt="Web UI Mockup" width="70%">
-
-  <img src="Cravyty-Preview/HomeScreen.png" alt="Tablet UI Mockup" width="70%">
-
-  <img src="Cravyty-Preview/RestaurantScreen.png" alt="Tablet UI Mockup" width="70%">
-
-  <img src="Cravyty-Preview/DetailScreen.png" alt="Tablet UI Mockup" width="70%">
-
-  <img src="Cravyty-Preview/BagScreen.png" alt="Tablet UI Mockup" width="70%">
-
-  <img src="Cravyty-Preview/FilterScreen.png" alt="Tablet UI Mockup" width="70%">
-
-  <img src="Cravyty-Preview/FilterSearchResult.png" alt="Tablet UI Mockup" width="70%">
-
-  <img src="Cravyty-Preview/OrderSuccess.png" alt="Tablet UI Mockup" width="70%">
+  <img src="Cravyty-Preview/WelcomeScreen.png" alt="Welcome Screen" width="250" />
+  <img src="Cravyty-Preview/HomeScreen.png" alt="Home Screen" width="250" />
+  <img src="Cravyty-Preview/RestaurantScreen.png" alt="Restaurant Screen" width="250" />
+  <img src="Cravyty-Preview/DetailScreen.png" alt="Detail Screen" width="250" />
+  <img src="Cravyty-Preview/BagScreen.png" alt="Bag Screen" width="250" />
+  <img src="Cravyty-Preview/FilterScreen.png" alt="Filter Screen" width="250" />
+  <img src="Cravyty-Preview/FilterSearchResult.png" alt="Search Results" width="250" />
+  <img src="Cravyty-Preview/OrderSuccess.png" alt="Order Success" width="250" />
 </div>
 
 ---
@@ -45,11 +46,11 @@ Developed as a final exam project for **BSIT 4B** at **East System Colleges of R
 
 ## 📱 Features
 
-- 📂 View food categories: Meals, Burgers, Drinks, Desserts
-- 💰 Filter suggestions based on user budget
-- 🎨 Clean and colorful UI using NativeWind
-- 🔄 Multi-screen navigation and order confirmation
-- 📱 Optimized for Expo Go preview on mobile
+- 📂 Browse food by categories: *Meals, Burgers, Drinks, Desserts*
+- 💰 Filter food suggestions based on user budget
+- 🎨 Clean and colorful UI using **NativeWind**
+- 🔄 Smooth navigation and order confirmation
+- 📱 Optimized for **Expo Go** mobile preview
 
 ---
 
@@ -67,23 +68,23 @@ Developed as a final exam project for **BSIT 4B** at **East System Colleges of R
 
 ### 📲 Requirements
 
-> To test the app, please use **Expo Go version 52**. You can download it below:
+To test the app, use **Expo Go version 52**. Download below:
 
-#### 📱 For Real Devices
+#### 📱 Real Devices
 
-- **Android:** [Expo Go v52 (Android)](https://expo.dev/go?sdkVersion=52&platform=android&device=true)
-- **iOS:** [Expo Go v52 (iOS)](https://expo.dev/go?sdkVersion=52&platform=ios&device=true)
+- [Expo Go for Android](https://expo.dev/go?sdkVersion=52&platform=android&device=true)
+- [Expo Go for iOS](https://expo.dev/go?sdkVersion=52&platform=ios&device=true)
 
-#### 🧪 For Emulators/Simulators
+#### 💻 Emulators/Simulators
 
-- **Android Emulator:** [Expo Go v52 (Android Emulator)](https://expo.dev/go?sdkVersion=52&platform=android&device=false)
-- **iOS Simulator:** [Expo Go v52 (iOS Simulator)](https://expo.dev/go?sdkVersion=52&platform=ios&device=false)
+- [Expo Go (Android Emulator)](https://expo.dev/go?sdkVersion=52&platform=android&device=false)
+- [Expo Go (iOS Simulator)](https://expo.dev/go?sdkVersion=52&platform=ios&device=false)
 
-Make sure your device/emulator is on the **same Wi-Fi network** as your development machine.
+> ⚠️ Ensure your mobile/emulator is on the **same Wi-Fi** as your development machine.
 
 ---
 
-### Install dependencies
+### 💻 Install Dependencies
 
 ```bash
 npm install
