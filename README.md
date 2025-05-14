@@ -3,6 +3,25 @@
 **Cravvty** is a React Native Expo mobile app that suggests food options based on user-selected categories and budget range.  
 Developed as a final exam project for **BSIT 4B** at **East System Colleges of Rizal**.
 
+<div align="center">
+   <p>## 📸 App Preview</b>
+  <img src="Cravyty-Preview/WelcomeScreen.png" alt="Web UI Mockup" width="70%">
+
+  <img src="Cravyty-Preview/HomeScreen.png" alt="Tablet UI Mockup" width="70%">
+
+  <img src="Cravyty-Preview/RestaurantScreen.png" alt="Tablet UI Mockup" width="70%">
+
+  <img src="Cravyty-Preview/DetailScreen.png" alt="Tablet UI Mockup" width="70%">
+
+  <img src="Cravyty-Preview/BagScreen.png" alt="Tablet UI Mockup" width="70%">
+
+  <img src="Cravyty-Preview/FilterScreen.png" alt="Tablet UI Mockup" width="70%">
+
+  <img src="Cravyty-Preview/FilterSearchResult.png" alt="Tablet UI Mockup" width="70%">
+
+  <img src="Cravyty-Preview/OrderSuccess.png" alt="Tablet UI Mockup" width="70%">
+</div>
+
 ---
 
 ## 👤 Author
