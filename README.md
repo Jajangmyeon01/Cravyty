@@ -10,13 +10,14 @@ Developed as a final exam project for **BSIT 4B** at **East System Colleges of R
 **Gen Exus Vergara**  
 BSIT 4B  
 East System Colleges of Rizal 🎓
----
+
 Members: 
 Joseph Paralejas
 Jerson Kyle Escopin
 Andre Jane Padua
 Cyra Oyad
 Princess Angel Sta.Ana
+---
 
 
 ## 📱 Features
