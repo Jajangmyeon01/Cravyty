@@ -1,11 +1,11 @@
-# 🍔 Cravvty
+# 🍔 Cravyty
 
 [![React Native](https://img.shields.io/badge/React%20Native-2023-blue.svg?logo=react)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo%20Go-v52-black.svg?logo=expo)](https://expo.dev/)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen)](#)
 [![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey)](#)
 
-**Cravvty** is a React Native Expo mobile app that suggests food options based on user-selected categories and budget range.  
+**Cravyty** is a React Native Expo mobile app that suggests food options based on user-selected categories and budget range.  
 Developed as a final exam project for **BSIT 4B** at **East System Colleges of Rizal**.
 
 ---
